@@ -1,7 +1,0 @@
-Opponent,Leg,MU_Possession (%),OPP_Possession (%),MU_Passing Acc (%),MU_Passes Completed,MU_Passes Attempted,OPP_Passing Acc (%),OPP_Passes Completed,OPP_Passes Attempted,MU_Shots,MU_Shots on Target,OPP_Shots,OPP_Shots on Target,MU_Saves (%),MU_Saves Made,MU_Saves Faced,OPP_Saves (%),OPP_Saves Made,OPP_Saves Faced,Result,G_OP,G_MU,xG,xGA,Possesion
-Real Sociedad,Leg 1,45,55,77,311,403,79,396,501,13,4,12,2,100,2,2,75,3,4,D,1,1,1.1,1.4,45
-Real Sociedad,Leg 2,59,41,81,414,511,74,262,353,23,8,7,2,100,2,2,75,6,8,W,1,4,4.2,1,59
-Lyon,Leg 1,46,54,86,397,464,89,485,546,13,5,16,5,60,3,5,60,3,5,D,2,2,1.2,1.8,46
-Lyon,Leg 2,41,59,82,425,516,84,624,742,20,7,20,8,62,5,8,42,3,7,W,4,5,3.4,2.5,41
-Athletic Club,Leg 1,72,28,88,586,669,68,175,258,13,6,9,2,100,2,2,66,4,6,W,0,3,2.5,1.1,72
-Athletic Club,Leg 2,51,49,78,374,481,77,356,460,11,5,11,1,0,0,1,20,1,5,W,1,4,2.2,0.8,51
